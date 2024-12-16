@@ -1,0 +1,14 @@
+{
+    "domain": "batterie_virtuelle_use",
+    "name": "Batterie virtuelle USE",
+    "codeowners": [
+        "@b.schieberlein"
+    ],
+    "config_flow": true,
+    "documentation": "https://gitlab.com/schieberlein/batterie_virtuelle_use",
+    "integration_type": "device",
+    "iot_class": "cloud_polling",
+    "issue_tracker": "https://gitlab.com/schieberlein/batterie_virtuelle_use/-/issues",
+    "quality_scale": "custom",
+    "version": "1.0.0"
+}
